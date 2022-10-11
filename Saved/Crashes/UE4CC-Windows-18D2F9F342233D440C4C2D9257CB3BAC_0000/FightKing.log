@@ -1,0 +1,1615 @@
+﻿Log file open, 10/08/22 17:07:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FightKing
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165392
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.08-22.07.30:289][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.08-22.07.30:289][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:290][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:302][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.08-22.07.30:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.08-22.07.30:303][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.08-22.07.30:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.08-22.07.30:303][  0]LogHAL: Display: Platform has ~ 32 GB [34301435904 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.08-22.07.30:303][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.08-22.07.30:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Games/UE/FightKing/Saved/Config/Windows/Scalability.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Games/UE/FightKing/Saved/Config/Windows/Engine.ini]
+[2022.10.08-22.07.30:304][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Games/UE/FightKing/Saved/Config/Windows/Editor.ini]
+[2022.10.08-22.07.30:304][  0]LogInit: Computer: DESKTOP-FTC76AN
+[2022.10.08-22.07.30:304][  0]LogInit: User: Beast
+[2022.10.08-22.07.30:304][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.08-22.07.30:304][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.08-22.07.30:304][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.10.08-22.07.30:304][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.08-22.07.30:304][  0]LogMemory: Process Physical Memory: 145.74 MB used, 145.74 MB peak
+[2022.10.08-22.07.30:304][  0]LogMemory: Process Virtual Memory: 131.71 MB used, 131.71 MB peak
+[2022.10.08-22.07.30:304][  0]LogMemory: Physical Memory: 6561.76 MB used,  26150.64 MB free, 32712.40 MB total
+[2022.10.08-22.07.30:304][  0]LogMemory: Virtual Memory: 134189320.00 MB used,  28405.70 MB free, 134217728.00 MB total
+[2022.10.08-22.07.30:308][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.08-22.07.30:337][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.08-22.07.30:338][  0]LogInit: Using OS detected language (en-US).
+[2022.10.08-22.07.30:338][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.08-22.07.30:339][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.10.08-22.07.30:462][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.08-22.07.30:469][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.08-22.07.30:477][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.08-22.07.30:477][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.08-22.07.30:644][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.08-22.07.30:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.08-22.07.30:646][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.08-22.07.30:646][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.08-22.07.30:646][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.08-22.07.30:717][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2022.10.08-22.07.30:717][  0]LogD3D11RHI:       12142/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     DeviceId    : 2503
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     SubSysId    : 152210de
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     DedicatedVideoMemory : 12731809792 bytes
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     SharedSystemMemory : 17150717952 bytes
+[2022.10.08-22.07.30:719][  0]LogD3D11RHI:     AdapterLuid : 0 60451
+[2022.10.08-22.07.30:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.08-22.07.30:722][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.08-22.07.30:722][  0]LogWindows: EnumDisplayDevices:
+[2022.10.08-22.07.30:723][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2022.10.08-22.07.30:723][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.10.08-22.07.30:723][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.10.08-22.07.30:723][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2022.10.08-22.07.30:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.10.08-22.07.30:723][  0]LogRHI: Texture pool is 8499 MB (70% of 12142 MB)
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     DeviceId    : 2503
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     SubSysId    : 152210de
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     DedicatedVideoMemory : 12731809792 bytes
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     SharedSystemMemory : 17150717952 bytes
+[2022.10.08-22.07.30:723][  0]LogD3D11RHI:     AdapterLuid : 0 60451
+[2022.10.08-22.07.30:770][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.08-22.07.30:770][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.08-22.07.30:770][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.08-22.07.30:771][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.10.08-22.07.30:788][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.08-22.07.30:808][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.08-22.07.31:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.08-22.07.31:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.08-22.07.31:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.08-22.07.31:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.08-22.07.31:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.08-22.07.31:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.08-22.07.31:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.08-22.07.31:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.08-22.07.31:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.08-22.07.31:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.08-22.07.31:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.08-22.07.31:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.08-22.07.31:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.08-22.07.31:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.10.08-22.07.31:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.10.08-22.07.31:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.10.08-22.07.31:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.10.08-22.07.31:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.08-22.07.31:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.08-22.07.31:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.08-22.07.31:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.08-22.07.31:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.08-22.07.31:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.08-22.07.31:110][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.08-22.07.31:115][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.08-22.07.31:135][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.10.08-22.07.31:157][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.08-22.07.31:157][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../UE/FightKing/Intermediate/Shaders/WorkingDirectory/12316/).
+[2022.10.08-22.07.31:157][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Beast/AppData/Local/Temp/UnrealShaderWorkingDir/D2EBD0E5400827474A0B82A9E982B4E0/'.
+[2022.10.08-22.07.31:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.08-22.07.31:157][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.08-22.07.31:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.08-22.07.31:719][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: Loaded boot cache 0.04s 115MB C:/Users/Beast/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Beast/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE/FightKing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE/FightKing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.08-22.07.31:763][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.08-22.07.31:777][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.08-22.07.31:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.08-22.07.31:777][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.08-22.07.31:783][  0]LogDerivedDataCache: Speed tests for C:/Users/Beast/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.08-22.07.31:783][  0]LogDerivedDataCache: Display: Performance to C:/Users/Beast/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1299.54MBs, RandomWriteSpeed=175.44MBs. Assigned SpeedClass 'Local'
+[2022.10.08-22.07.31:784][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Beast/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.08-22.07.31:784][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.08-22.07.31:784][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.08-22.07.31:817][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.08-22.07.31:817][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.08-22.07.31:835][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.10.08-22.07.32:008][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.08-22.07.32:008][  0]LogInit: Active device profile: [000001796FBC9400][00000179707B8DC0 49] Windows
+[2022.10.08-22.07.32:008][  0]LogInit: Profiles: [000001796FBC9400][00000179707B8DC0 49] Windows, [000001796FB7B400][00000179707C0F40 49] WindowsNoEditor, [000001796FBCA200][00000179707C50C0 49] WindowsServer, [000001796FB7A300][00000179707C9240 49] WindowsClient, [000001796FBCAF00][00000179707CD3C0 49] IOS, [000001796FB79600][00000179707D1540 49] iPadAir, [000001796FBCBC00][00000179707D56C0 49] iPadAir2, [000001796FA86600][00000179707E9980 49] IPadPro, [000001796FA86700][00000179707D99C0 49] iPadAir3, [000001796FB78300][000001797083BB40 49] iPadAir4, [000001796FA87500][000001796BB74140 49] iPadMini2, [000001796FB7B800][000001796BB782C0 49] iPadMini3, [000001796FA86400][0000017969FF8440 49] iPadMini4, [000001796FB7A700][0000017969FFC5C0 49] iPadMini5, [000001796FAEDF00][000001796BB94880 49] iPhone6, [000001796FAEE000][000001796A0048C0 49] iPodTouch6, [000001796FBCAD00][000001796BBB8B00 49] iPhone7, [000001796FBC9500][00000179707BCB40 49] iPodTouch7, [000001796FA87200][000001796A270C80 49] iPhone5S, [000001796FBCA000][000001796BBE4DC0 49] iPhone6Plus, [000001796FA85200][00000179709A0F40 49] iPhone6S, [000001796FBCAB00][00000179709A50C0 49] iPhone6SPlus, [000001796FA84A00][00000179709A9240 49] iPhone7Plus, [000001796FBC9100][00000179709AD3C0 49] iPhoneSE, [000001796FA84800][00000179709E9540 49] iPhone8, [000001796FBCAC00][00000179709ED6C0 49] iPhone8Plus, [000001796FA87100][000001796E095840 49] iPhoneX, [000001796FBC8F00][000001796E0999C0 49] iPhoneXS, [000001796FA86F00][00000179707F9B40 49] iPhoneXSMax, [000001796FBCA900][00000179707FC140 49] iPhoneXR, [000001796FAEC400][00000179708042C0 49] iPhone11, [000001796FA85300][0000017970814440 49] iPhone11Pro, [000001796FAECC00][00000179708205C0 49] iPhone11ProMax, [000001796FA85B00][0000017970828740 49] iPhoneSE2, [000001796FAED400][00000179708508C0 49] iPhone12Mini, [000001796FA86300][000001797087AA40 49] iPhone12, [000001796FAEDA00][000001797099CB80 49] iPhone12Pro, [000001796FA86100][000001796A26CCC0 49] iPhone12ProMax, [000001796FAEDD00][00000179708AEE00 49] iPadPro105, [000001796FA85C00][0000017969F90F40 49] iPadPro129, [000001796FAEFF00][0000017969F990C0 49] iPadPro97, [000001796FA84400][0000017969FD7240 49] iPadPro2_129, [000001796FBC9D00][0000017969FDB3C0 49] iPad5, [000001796FAEDE00][0000017969FDF540 49] iPad6, [000001796FA85F00][0000017969FE36C0 49] iPad7, [000001796FAEC800][0000017969FE7840 49] iPad8, [000001796FA87C00][0000017969FEB9C0 49] iPadPro11, [000001796FAEC900][0000017969FEFB40 49] iPadPro2_11, [000001796FA85400][0000017969FF2140 49] iPadPro3_129, [000001796FAEF500][00000179709502C0 49] iPadPro4_129, [000001796FA84D00][0000017970966440 49] AppleTV, [000001796FAED000][000001797096A5C0 49] AppleTV4K, [000001796FA84100][000001797096E740 49] TVOS, [000001796FAECD00][0000017971D2E8C0 49] Mac, [000001796FA87700][0000017971D6EA40 49] MacClient, [000001796FAEE400][0000017971DB6BC0 49] MacNoEditor, [000001796FA85800][0000017971DE8D40 49] MacServer, [000001796FAEED00][0000017969F94E80 49] Linux, [000001796FA86500][0000017971DF8FC0 49] LinuxAArch64, [000001796FAECB00][0000017971DFD100 49] LinuxNoEditor, [000001796FA87400][0000017971E13280 49] LinuxAArch64NoEditor, [000001796FAED800][0000017971E2D400 49] LinuxClient, [000001796FA84300][0000017970B2D580 49] LinuxAArch64Client, [000001796FAED200][0000017970B65700 49] LinuxServer, [000001796FA87000][0000017970BF9880 49] LinuxAArch64Server, [000001796FAEE600][0000017972233A00 49] Android, [000001796FA85D00][000001797225BB80 49] Android_Low, [000001796FAEE900][0000017972292180 49] Android_Mid, [000001796FA85100][0000017972436300 49] Android_High, [000001796FAEC300][000001797243A480 49] Android_Default, [000001796FA84500][0000017972454600 49] Android_Adreno4xx, [000001796FAED900][00000179724C8780 49] Android_Adreno5xx_Low, [000001796FA86900][0000017969F9C900 49] Android_Adreno5xx, [000001796FAECA00][0000017969FA0A80 49] Android_Adreno6xx, [000001796FA87A00][0000017969FA4C00 49] Android_Adreno6xx_Vulkan, [000001796FAEFB00][0000017969FA8D80 49] Android_Mali_T6xx, [000001796FA85600][0000017969FACF00 49] Android_Mali_T7xx, [000001796FAEDC00][0000017971E0F040 49] Android_Mali_T8xx, [000001796FA85A00][0000017969FB1180 49] Android_Mali_G71, [000001796FAED100][0000017969FB52C0 49] Android_Mali_G72, [000001796FA84900][0000017969FBD440 49] Android_Mali_G72_Vulkan, [000001796FAECF00][000001797090B5C0 49] Android_Mali_G76, [000001796FA86C00][000001797091B740 49] Android_Mali_G76_Vulkan, [000001796FAED300][000001796E0A58C0 49] Android_Mali_G77, [000001796FA85000][000001796E0E5A40 49] Android_Mali_G77_Vulkan, [000001796FAEEA00][0000017971FBBBC0 49] Android_Mali_G78, [000001796FA84C00][0000017971FBE1C0 49] Android_Mali_G78_Vulkan, [000001796FAEE800][000001796E0EE340 49] Android_Mali_G710, [000001796FA84700][000001796E0F24C0 49] Android_Mali_G710_Vulkan, [000001796FB7A800][000001796E0FC640 49] Android_Vulkan_SM5, [000001796FBC8E00][000001796E1007C0 49] Android_PowerVR_G6xxx, [000001796FB78B00][000001796E104940 49] Android_PowerVR_GT7xxx, [000001796FBC8400][000001796E108AC0 49] Android_PowerVR_GE8xxx, [000001796FB7BE00][000001796A23CC40 49] Android_PowerVR_GM9xxx, [000001796FBCBF00][000001796E10CDC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001796FB78D00][000001796E110F40 49] Android_TegraK1, [000001796FBCAA00][0000017971CED0C0 49] Android_Unknown_Vulkan, [000001796FB79700][0000017969FB9200 49] Lumin, [000001796FBCB400][0000017971DE5340 49] Lumin_Desktop, [000001796FB78400][0000017971CF1480 49] HoloLens, 
+[2022.10.08-22.07.32:096][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.08-22.07.32:096][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.08-22.07.32:096][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.08-22.07.32:096][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.08-22.07.32:096][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.08-22.07.32:109][  0]LogNetVersion: FightKing 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4012041782)
+[2022.10.08-22.07.32:378][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.08-22.07.32:421][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.08-22.07.32:429][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.08-22.07.32:429][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.08-22.07.32:429][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.08-22.07.32:606][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F9B49C3B4A1CD24A4C92DDB505BFF5D1 | Instance: 5AADDFFC4CB257FCBDA585A9D0A78A17 (DESKTOP-FTC76AN-12316).
+[2022.10.08-22.07.32:643][  0]LogPython: Using Python 3.7.7
+[2022.10.08-22.07.33:066][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.08-22.07.33:069][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.08-22.07.33:168][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.33:168][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.33:170][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.33:178][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.33:195][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.33:205][  0]LogUProjectInfo: Found projects:
+[2022.10.08-22.07.33:210][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:211][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:211][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:320][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.08-22.07.33:348][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.08-22.07.33:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.08-22.07.33:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.08-22.07.33:449][  0]LogCollectionManager: Loaded 0 collections in 0.000506 seconds
+[2022.10.08-22.07.33:469][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE/FightKing/Saved/Collections/' took 0.00s
+[2022.10.08-22.07.33:469][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE/FightKing/Content/Developers/Beast/Collections/' took 0.00s
+[2022.10.08-22.07.33:469][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE/FightKing/Content/Collections/' took 0.00s
+[2022.10.08-22.07.33:469][  0]LogOcInput: OculusInput pre-init called
+[2022.10.08-22.07.33:630][  0]LogEngine: Initializing Engine...
+[2022.10.08-22.07.33:632][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.08-22.07.33:632][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.08-22.07.33:632][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.08-22.07.33:632][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.08-22.07.33:710][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.08-22.07.33:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.08-22.07.33:722][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.08-22.07.33:724][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.08-22.07.33:724][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.07.33:725][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.07.33:725][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.07.33:732][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.07.33:732][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.07.33:745][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.07.33:746][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.07.33:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.07.33:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.07.33:749][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.07.33:749][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.07.33:749][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.07.33:749][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.07.33:749][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.07.33:749][  0]LogInit: FAudioDevice initialized.
+[2022.10.08-22.07.33:749][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.08-22.07.33:749][  0]LogNetVersion: Set ProjectVersion to 4.1. Version Checksum will be recalculated on next use.
+[2022.10.08-22.07.33:794][  0]LogDerivedDataCache: Saved boot cache 0.04s 115MB C:/Users/Beast/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.08-22.07.33:795][  0]LogInit: Texture streaming: Enabled
+[2022.10.08-22.07.33:803][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.08-22.07.33:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.08-22.07.33:806][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.08-22.07.33:806][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.08-22.07.33:824][  0]LogInit: Transaction tracking system initialized
+[2022.10.08-22.07.33:839][  0]BlueprintLog: New page: Editor Load
+[2022.10.08-22.07.33:877][  0]LocalizationService: Localization service is disabled
+[2022.10.08-22.07.33:894][  0]TimingProfiler: Initialize
+[2022.10.08-22.07.33:894][  0]TimingProfiler: OnSessionChanged
+[2022.10.08-22.07.33:894][  0]LoadingProfiler: Initialize
+[2022.10.08-22.07.33:894][  0]LoadingProfiler: OnSessionChanged
+[2022.10.08-22.07.33:894][  0]NetworkingProfiler: Initialize
+[2022.10.08-22.07.33:894][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.08-22.07.33:894][  0]MemoryProfiler: Initialize
+[2022.10.08-22.07.33:894][  0]MemoryProfiler: OnSessionChanged
+[2022.10.08-22.07.33:896][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.10.08-22.07.33:896][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.10.08-22.07.33:936][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:936][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:937][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.08-22.07.33:998][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.08-22.07.33:998][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.08-22.07.34:031][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE/FightKing/Content/' took 0.01s
+[2022.10.08-22.07.34:242][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.08-22.07.34:244][  0]SourceControl: Source control is disabled
+[2022.10.08-22.07.34:244][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.792
+[2022.10.08-22.07.34:244][  0]Cmd: MAP LOAD FILE="../../../../UE/FightKing/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.08-22.07.34:244][  0]LightingResults: New page: Lighting Build
+[2022.10.08-22.07.34:245][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.07.34:245][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.07.34:245][  0]MapCheck: New page: Map Check
+[2022.10.08-22.07.34:245][  0]LightingResults: New page: Lighting Build
+[2022.10.08-22.07.34:249][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.07.34:251][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.08-22.07.35:135][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LearningKit_Games_Showcase'.
+[2022.10.08-22.07.35:135][  0]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.10.08-22.07.36:469][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.08-22.07.36:478][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.08-22.07.36:478][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.08-22.07.36:478][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2022.10.08-22.07.36:478][  0]LogFileHelpers: Loading map 'LearningKit_Games_Showcase' took 2.234
+[2022.10.08-22.07.36:480][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.027
+[2022.10.08-22.07.36:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.07.36:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.07.36:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.07.36:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.07.36:581][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3822 classes and 928 folders.
+[2022.10.08-22.07.36:583][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.08-22.07.36:584][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.08-22.07.36:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.08-22.07.36:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.10.08-22.07.36:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.08-22.07.36:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.10.08-22.07.36:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.10.08-22.07.36:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.10.08-22.07.36:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:586][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.08-22.07.36:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.08-22.07.36:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.10.08-22.07.36:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.08-22.07.36:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.10.08-22.07.36:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.08-22.07.36:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.10.08-22.07.36:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.08-22.07.36:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.10.08-22.07.36:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.08-22.07.36:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.10.08-22.07.36:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:589][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.08-22.07.36:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.08-22.07.36:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.10.08-22.07.36:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.08-22.07.36:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.10.08-22.07.36:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.08-22.07.36:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.10.08-22.07.36:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.08-22.07.36:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.10.08-22.07.36:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.08-22.07.36:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.10.08-22.07.36:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:592][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.08-22.07.36:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.08-22.07.36:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.10.08-22.07.36:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.08-22.07.36:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.10.08-22.07.36:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.08-22.07.36:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.10.08-22.07.36:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.08-22.07.36:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.08-22.07.36:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.08-22.07.36:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.10.08-22.07.36:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.10.08-22.07.36:595][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.08-22.07.36:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.08-22.07.36:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.10.08-22.07.36:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.08-22.07.36:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.10.08-22.07.36:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.08-22.07.36:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.10.08-22.07.36:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.08-22.07.36:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.10.08-22.07.36:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.10.08-22.07.36:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.10.08-22.07.36:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:598][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.08-22.07.36:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.08-22.07.36:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.08-22.07.36:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.08-22.07.36:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.10.08-22.07.36:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.08-22.07.36:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.08-22.07.36:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.08-22.07.36:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.10.08-22.07.36:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.10.08-22.07.36:655][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.08-22.07.36:656][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.10.08-22.07.36:694][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.08-22.07.36:695][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.08-22.07.36:696][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.08-22.07.36:757][  0]LogRenderer: Reallocating scene render targets to support 1588x980 Format 10 NumSamples 1 (Frame:1).
+[2022.10.08-22.07.36:767][  0]LogStaticMesh: Allocated 512x217x128 distance field atlas = 27.1Mb, with 84 objects containing 17.2Mb backing data
+[2022.10.08-22.07.36:923][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.08-22.07.36:923][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.10.08-22.07.36:923][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.10.08-22.07.36:923][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.10.08-22.07.36:923][  0]LogLoad: (Engine Initialization) Total time: 7.47 seconds
+[2022.10.08-22.07.36:923][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.08-22.07.36:963][  0]LogAssetRegistry: Asset discovery search completed in 5.1286 seconds
+[2022.10.08-22.07.36:968][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.08-22.07.36:970][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.08-22.08.02:919][935]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.08-22.08.02:927][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/LevelComplete.LevelComplete
+[2022.10.08-22.08.03:140][935]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.10.08-22.08.03:750][935]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.08-22.08.03:789][937]LogStaticMesh: Allocated 512x261x128 distance field atlas = 32.6Mb, with 92 objects containing 17.5Mb backing data
+[2022.10.08-22.08.12:214][860]LogSlate: Window 'LevelComplete' being destroyed
+[2022.10.08-22.08.12:217][860]LogSlate: Window 'LevelComplete' being destroyed
+[2022.10.08-22.08.12:219][860]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.08.12:219][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.08.14:023][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.08.14:393][ 38]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.08-22.08.42:695][212]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.08.42:753][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.08-22.08.43:018][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.08.43:082][235]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter2751DFDA4A8FC70769C7BDA5EA29EBB1.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.08.43:093][235]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.08.43:093][235]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.08.49:053][883]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.08.49:055][883]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.08.49:057][883]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.08.49:057][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.08.56:111][681]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.08-22.08.56:120][681]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.08-22.08.58:695][961]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> LevelComplete
+[2022.10.08-22.08.58:696][961]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.08-22.09.04:570][643]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/LevelComplete.LevelComplete
+[2022.10.08-22.09.31:216][603]BlueprintLog: New page: Compile LevelComplete
+[2022.10.08-22.09.31:260][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.10.08-22.09.31:278][603]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.08-22.09.31:624][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/LevelComplete" FILE="../../../../UE/FightKing/Content/Custom/UI/LevelComplete.uasset" SILENT=true
+[2022.10.08-22.09.31:626][643]LogSavePackage: Moving '../../../../UE/FightKing/Saved/LevelCompleteA950A7074FD70562E05CA9878CAA7B81.tmp' to '../../../../UE/FightKing/Content/Custom/UI/LevelComplete.uasset'
+[2022.10.08-22.09.31:637][643]AssetCheck: New page: Asset Save: LevelComplete
+[2022.10.08-22.09.31:637][643]LogContentValidation: Display: Validating WidgetBlueprint /Game/Custom/UI/LevelComplete.LevelComplete
+[2022.10.08-22.09.33:095][807]LogSlate: Window 'LevelComplete' being destroyed
+[2022.10.08-22.09.33:098][807]LogSlate: Window 'LevelComplete' being destroyed
+[2022.10.08-22.09.33:099][807]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.09.33:099][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.09.33:104][807]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.09.33:104][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.09.37:635][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.09.47:444][357]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.08-22.09.50:664][729]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.50:664][729]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.52:800][985]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.52:800][985]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.53:258][ 40]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.53:860][111]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.54:698][208]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.09.56:003][360]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Custom/Components/LevelComplete.LevelComplete_C or WidgetBlueprintGeneratedClass /Game/Custom/UI/LevelComplete.LevelComplete_C
+[2022.10.08-22.10.03:187][ 93]LogContentBrowser: Attempting asset rename: LevelComplete -> BP_LevelComplete
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.BP_LevelComplete:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.BP_LevelComplete_C' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.BP_LevelComplete:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.BP_LevelComplete:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.BP_LevelComplete:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C:ReceiveBeginPlay' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C:ReceiveTick' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C:BndEvt__LevelComplete_Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:207][ 93]LogMetaData: Removing '/Game/Custom/Components/BP_LevelComplete.SKEL_BP_LevelComplete_C:UserConstructionScript' ref from Metadata '/Game/Custom/Components/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.03:238][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LevelComplete" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LevelComplete.uasset" SILENT=true
+[2022.10.08-22.10.03:244][ 93]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LevelCompleteA452A8E34965F5DBC7325588F2D207AE.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LevelComplete.uasset'
+[2022.10.08-22.10.03:319][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.10.08-22.10.03:359][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.08-22.10.03:371][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.08-22.10.03:425][ 93]AssetCheck: New page: Asset Save: BP_LevelComplete
+[2022.10.08-22.10.03:425][ 93]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.10.05:301][287]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.05:354][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.08-22.10.05:654][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.10.05:715][308]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter69F50EC8403D49CAAD43279D4667005F.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.10.05:725][308]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.05:725][308]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.06:726][419]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.10.06:729][419]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.10.06:731][419]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.10.06:731][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.10.14:594][306]LogContentBrowser: Attempting asset rename: LevelComplete -> W_LevelComplete
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.SKEL_W_LevelComplete_C' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.W_LevelComplete_C' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.W_LevelComplete:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.W_LevelComplete:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.W_LevelComplete:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.SKEL_W_LevelComplete_C:PreConstruct' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.SKEL_W_LevelComplete_C:Construct' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:615][306]LogMetaData: Removing '/Game/Custom/UI/W_LevelComplete.SKEL_W_LevelComplete_C:Tick' ref from Metadata '/Game/Custom/UI/LevelComplete.PackageMetaData'
+[2022.10.08-22.10.14:629][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/W_LevelComplete" FILE="../../../../UE/FightKing/Content/Custom/UI/W_LevelComplete.uasset" SILENT=true
+[2022.10.08-22.10.14:632][306]LogSavePackage: Moving '../../../../UE/FightKing/Saved/W_LevelCompleteFB1721C540ACA56562ED0E836BD1B475.tmp' to '../../../../UE/FightKing/Content/Custom/UI/W_LevelComplete.uasset'
+[2022.10.08-22.10.14:670][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.10.08-22.10.14:690][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.08-22.10.14:701][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.08-22.10.14:755][306]AssetCheck: New page: Asset Save: W_LevelComplete
+[2022.10.08-22.10.14:755][306]LogContentValidation: Display: Validating WidgetBlueprint /Game/Custom/UI/W_LevelComplete.W_LevelComplete
+[2022.10.08-22.10.19:280][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.30:192][971]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.30:215][971]LogClass: Warning: Type mismatch in LevelCompleteWidget of BP_LearningKit_PlayerCharacter_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2022.10.08-22.10.30:246][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.08-22.10.30:553][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.10.30:614][992]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacterFA3F2C2A400C07404448A29ED312E0AB.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.10.30:624][992]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.30:624][992]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.40:433][ 82]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.08-22.10.44:592][553]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.44:647][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.08-22.10.55:808][795]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.55:862][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.08-22.10.56:105][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.10.56:168][810]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacterFC5B519F48BFDE3EB0739588185E6A1E.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.10.56:176][810]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.10.56:176][810]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.13.18:262][878]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.13.18:317][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.08-22.13.56:092][946]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.13.56:148][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.08-22.13.56:477][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.13.56:540][978]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter1CE98EF54F01653A246579B8CE6589DA.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.13.56:550][978]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.13.56:550][978]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.14.05:886][  5]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.14.05:940][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.08-22.14.06:183][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.14.06:247][ 27]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter40382D484A199A801422A7B68BA40210.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.14.06:256][ 27]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.14.06:256][ 27]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.14.07:492][170]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.14.07:494][170]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.14.07:496][170]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.07:496][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.09:924][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.08-22.14.11:322][435]LogSlate: Window 'Save Content' being destroyed
+[2022.10.08-22.14.11:351][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.08-22.14.11:413][435]LogSavePackage: Moving '../../../../UE/FightKing/Saved/LearningKit_Games_ShowcaseDF18143F475899C6CA233BAF569D1408.tmp' to '../../../../UE/FightKing/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2022.10.08-22.14.11:420][435]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.081
+[2022.10.08-22.14.11:560][435]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/FightKing.FightKing
+[2022.10.08-22.14.11:560][435]Cmd: MAP LOAD FILE="../../../../UE/FightKing/Content/Levels/FightKing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.08-22.14.11:560][435]LightingResults: New page: Lighting Build
+[2022.10.08-22.14.11:560][435]LoadErrors: New page: Loading map: FightKing.umap
+[2022.10.08-22.14.11:597][435]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.11:597][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.11:597][435]MapCheck: New page: Map Check
+[2022.10.08-22.14.11:597][435]LightingResults: New page: Lighting Build
+[2022.10.08-22.14.11:610][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.14.11:621][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.08-22.14.11:622][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'FightKing'.
+[2022.10.08-22.14.11:702][435]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.08-22.14.11:702][435]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.14.11:718][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.08-22.14.11:725][435]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.08-22.14.11:725][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2022.10.08-22.14.11:725][435]LogFileHelpers: Loading map 'FightKing' took 0.164
+[2022.10.08-22.14.11:741][435]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2022.10.08-22.14.11:741][435]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2022.10.08-22.14.27:277][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FightKing" FILE="../../../../UE/FightKing/Content/Levels/FightKing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.08-22.14.27:292][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.08-22.14.27:334][253]LogSavePackage: Moving '../../../../UE/FightKing/Saved/FightKing007AEC134B225ECCCD0E73AC01515072.tmp' to '../../../../UE/FightKing/Content/Levels/FightKing.umap'
+[2022.10.08-22.14.27:343][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FightKing_BuiltData" FILE="../../../../UE/FightKing/Content/Levels/FightKing_BuiltData.uasset" SILENT=true
+[2022.10.08-22.14.27:372][253]LogSavePackage: Moving '../../../../UE/FightKing/Saved/FightKing_BuiltData6B4C38AD4BA5DE99907E53B41B3BBFD6.tmp' to '../../../../UE/FightKing/Content/Levels/FightKing_BuiltData.uasset'
+[2022.10.08-22.14.27:381][253]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.08-22.14.27:381][253]LogContentValidation: Display: Validating World /Game/Levels/FightKing.FightKing
+[2022.10.08-22.14.27:381][253]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/FightKing_BuiltData.FightKing_BuiltData
+[2022.10.08-22.14.27:914][316]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.14.27:918][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.14.27:918][316]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:14:27 PM)
+[2022.10.08-22.14.27:919][316]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.08-22.14.27:919][316]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.08-22.14.27:919][316]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.27:930][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010309s)
+[2022.10.08-22.14.27:930][316]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.14.27:931][316]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2022.10.08-22.14.27:931][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011132s)
+[2022.10.08-22.14.27:943][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.08-22.14.27:944][316]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.14.27:944][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.14.27:944][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.14.27:944][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.14.27:944][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.14.27:944][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.14.27:947][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.14.27:947][316]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.14.27:960][316]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.14.27:960][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.14.27:960][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.14.27:960][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.14.27:961][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.14.27:961][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.14.27:961][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.14.27:961][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.14.27:961][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.14.27:961][316]LogInit: FAudioDevice initialized.
+[2022.10.08-22.14.27:961][316]LogAudio: Display: Audio Device (ID: 2) registered with world 'FightKing'.
+[2022.10.08-22.14.27:970][316]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.14.27:977][316]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.14.27
+[2022.10.08-22.14.27:977][316]LogWorld: Bringing up level for play took: 0.005691
+[2022.10.08-22.14.27:977][316]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.10.08-22.14.27:982][316]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.10.08-22.14.27:983][316]PIE: Server logged in
+[2022.10.08-22.14.27:984][316]PIE: Play in editor total start time 0.067 seconds.
+[2022.10.08-22.14.33:956][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.14.33:956][  3]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.33:956][  3]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.33:958][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.33:966][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.14.33:974][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.33:987][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.14.33:989][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.14.33:990][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.14.34:031][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.10.08-22.14.34:059][  4]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.08-22.14.35:249][137]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.14.42:038][862]BlueprintLog: New page: Compile BP_LevelComplete
+[2022.10.08-22.14.42:094][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.10.08-22.14.42:372][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LevelComplete" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LevelComplete.uasset" SILENT=true
+[2022.10.08-22.14.42:379][890]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LevelComplete8DE740664D44FF54D30F5FA0370ED88D.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LevelComplete.uasset'
+[2022.10.08-22.14.42:389][890]AssetCheck: New page: Asset Save: BP_LevelComplete
+[2022.10.08-22.14.42:389][890]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.14.43:285][993]LogSlate: Window 'BP_LevelComplete' being destroyed
+[2022.10.08-22.14.43:287][993]LogSlate: Window 'BP_LevelComplete' being destroyed
+[2022.10.08-22.14.43:315][993]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.43:315][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.43:859][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.14.43:863][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.14.43:863][ 50]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:14:43 PM)
+[2022.10.08-22.14.43:896][ 50]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.43:906][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010498s)
+[2022.10.08-22.14.43:907][ 50]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.14.43:907][ 50]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2022.10.08-22.14.43:907][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011319s)
+[2022.10.08-22.14.43:922][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.08-22.14.43:924][ 50]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.14.43:924][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.14.43:924][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.14.43:924][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.14.43:924][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.14.43:924][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.14.43:926][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.14.43:927][ 50]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.14.43:935][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.14.43:936][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.14.43:936][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.14.43:936][ 50]LogInit: FAudioDevice initialized.
+[2022.10.08-22.14.43:936][ 50]LogAudio: Display: Audio Device (ID: 3) registered with world 'FightKing'.
+[2022.10.08-22.14.43:944][ 50]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.14.43:951][ 50]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.14.43
+[2022.10.08-22.14.43:951][ 50]LogWorld: Bringing up level for play took: 0.005737
+[2022.10.08-22.14.43:951][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.10.08-22.14.43:954][ 50]PIE: Server logged in
+[2022.10.08-22.14.43:954][ 50]PIE: Play in editor total start time 0.091 seconds.
+[2022.10.08-22.14.46:985][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.14.46:985][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.08-22.14.47:027][418]PIE: Warning: The widget 'W_LevelComplete_C' was already added to the screen.
+[2022.10.08-22.14.47:027][418]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.10.08-22.14.54:452][309]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.08-22.14.54:452][309]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.08-22.14.54:453][309]LogNet: Browse: /Game/Levels/FightKing
+[2022.10.08-22.14.54:453][309]LogLoad: LoadMap: /Game/Levels/FightKing
+[2022.10.08-22.14.54:453][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.54:453][309]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.54:454][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.54:487][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.14.54:490][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.08-22.14.54:492][309]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.54:502][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010040s)
+[2022.10.08-22.14.54:503][309]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.14.54:503][309]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2022.10.08-22.14.54:503][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.010847s)
+[2022.10.08-22.14.54:503][309]LogAudio: Display: Audio Device (ID: 3) registered with world 'FightKing'.
+[2022.10.08-22.14.54:503][309]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.14.54:507][309]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.14.54
+[2022.10.08-22.14.54:508][309]LogWorld: Bringing up level for play took: 0.003424
+[2022.10.08-22.14.54:510][309]LogLoad: Took 0.057310 seconds to LoadMap(/Game/Levels/UEDPIE_0_FightKing)
+[2022.10.08-22.14.57:525][669]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.14.57:525][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.08-22.14.57:616][680]PIE: Warning: The widget 'W_LevelComplete_C' was already added to the screen.
+[2022.10.08-22.14.57:616][680]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2022.10.08-22.14.58:336][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.14.58:336][763]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.14.58:336][763]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.14.58:337][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.58:344][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.14.58:351][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.14.58:361][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.14.58:361][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.14.58:362][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.14.58:364][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.14.58:369][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.08-22.14.58:432][764]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.10.08-22.15.01:544][112]LogSlate: Window 'Message Log' being destroyed
+[2022.10.08-22.15.01:547][112]LogSlate: Window 'Message Log' being destroyed
+[2022.10.08-22.15.04:558][448]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.15.07:631][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.10:230][ 53]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.10:289][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.08-22.15.10:554][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.15.10:616][ 77]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter89BF13384BD1D74CAED5FBBCECB89BF9.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.15.10:626][ 77]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.10:626][ 77]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.11:446][173]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.15.11:448][173]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.15.11:475][173]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.15.11:475][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.15.11:514][173]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.08-22.15.11:514][173]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.15.11:514][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.15.12:167][243]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.15.12:170][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.15.12:170][243]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:15:12 PM)
+[2022.10.08-22.15.12:205][243]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.15.12:218][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013461s)
+[2022.10.08-22.15.12:219][243]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.15.12:219][243]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2022.10.08-22.15.12:219][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.014515s)
+[2022.10.08-22.15.12:241][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.08-22.15.12:242][243]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.15.12:242][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.15.12:242][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.15.12:243][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.15.12:243][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.15.12:243][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.15.12:243][243]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.15.12:246][243]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.15.12:246][243]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.15.12:255][243]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.15.12:255][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.15.12:255][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.15.12:255][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.15.12:256][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.15.12:256][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.15.12:256][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.15.12:256][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.15.12:257][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.15.12:257][243]LogInit: FAudioDevice initialized.
+[2022.10.08-22.15.12:257][243]LogAudio: Display: Audio Device (ID: 4) registered with world 'FightKing'.
+[2022.10.08-22.15.12:265][243]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.15.12:272][243]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.15.12
+[2022.10.08-22.15.12:272][243]LogWorld: Bringing up level for play took: 0.005687
+[2022.10.08-22.15.12:272][243]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.10.08-22.15.12:274][243]PIE: Server logged in
+[2022.10.08-22.15.12:275][243]PIE: Play in editor total start time 0.105 seconds.
+[2022.10.08-22.15.15:438][621]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.15.15:438][621]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.08-22.15.15:513][630]PIE: Warning: The widget 'W_LevelComplete_C' was already added to the screen.
+[2022.10.08-22.15.18:975][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.15.18:975][ 41]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.15.18:976][ 41]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.15.18:977][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.15.18:984][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.15.18:991][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.15.19:003][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.15.19:003][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.15.19:004][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.15.19:005][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.15.19:008][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.08-22.15.19:060][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.08-22.15.19:327][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.10.08-22.15.22:021][369]LogSlate: Window 'Message Log' being destroyed
+[2022.10.08-22.15.22:023][369]LogSlate: Window 'Message Log' being destroyed
+[2022.10.08-22.15.24:108][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.53:896][ 47]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.53:950][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.08-22.15.54:579][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.15.54:642][114]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter6569001043510C007BEBB3AE2C4A28A0.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.15.54:652][114]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.54:652][114]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.15.56:532][327]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.15.56:534][327]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.15.56:536][327]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.15.56:536][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.15.57:386][420]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.15.57:389][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.15.57:389][420]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:15:57 PM)
+[2022.10.08-22.15.57:389][420]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.15.57:400][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010492s)
+[2022.10.08-22.15.57:401][420]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.15.57:401][420]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2022.10.08-22.15.57:401][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011298s)
+[2022.10.08-22.15.57:416][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.08-22.15.57:418][420]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.15.57:418][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.15.57:418][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.15.57:418][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.15.57:418][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.15.57:418][420]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.15.57:421][420]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.15.57:421][420]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.15.57:429][420]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.15.57:429][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.15.57:429][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.15.57:429][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.15.57:430][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.15.57:430][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.15.57:430][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.15.57:431][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.15.57:431][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.15.57:431][420]LogInit: FAudioDevice initialized.
+[2022.10.08-22.15.57:431][420]LogAudio: Display: Audio Device (ID: 5) registered with world 'FightKing'.
+[2022.10.08-22.15.57:437][420]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.15.57:444][420]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.15.57
+[2022.10.08-22.15.57:444][420]LogWorld: Bringing up level for play took: 0.005805
+[2022.10.08-22.15.57:444][420]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.10.08-22.15.57:447][420]PIE: Server logged in
+[2022.10.08-22.15.57:447][420]PIE: Play in editor total start time 0.058 seconds.
+[2022.10.08-22.15.59:407][654]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.15.59:407][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.08-22.16.01:585][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.16.01:585][912]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.16.01:586][912]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.16.01:587][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.16.01:592][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.16.01:599][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.16.01:611][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.16.01:611][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.16.01:612][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.16.01:614][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.16.01:617][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.08-22.16.01:658][915]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.10.08-22.16.01:848][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.10.08-22.16.02:876][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.16.02:880][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.16.02:880][ 56]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:16:02 PM)
+[2022.10.08-22.16.02:880][ 56]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.16.02:890][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010255s)
+[2022.10.08-22.16.02:891][ 56]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.16.02:891][ 56]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2022.10.08-22.16.02:891][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011037s)
+[2022.10.08-22.16.02:903][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.08-22.16.02:904][ 56]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.16.02:904][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.16.02:904][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.16.02:905][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.16.02:905][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.16.02:905][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.16.02:905][ 56]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.16.02:907][ 56]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.16.02:907][ 56]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.16.02:916][ 56]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.16.02:916][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.16.02:916][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.16.02:916][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.16.02:917][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.16.02:917][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.16.02:917][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.16.02:917][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.16.02:917][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.16.02:918][ 56]LogInit: FAudioDevice initialized.
+[2022.10.08-22.16.02:918][ 56]LogAudio: Display: Audio Device (ID: 6) registered with world 'FightKing'.
+[2022.10.08-22.16.02:928][ 56]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.16.02:935][ 56]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.16.02
+[2022.10.08-22.16.02:935][ 56]LogWorld: Bringing up level for play took: 0.005715
+[2022.10.08-22.16.02:935][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.10.08-22.16.02:937][ 56]PIE: Server logged in
+[2022.10.08-22.16.02:938][ 56]PIE: Play in editor total start time 0.058 seconds.
+[2022.10.08-22.16.04:892][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.16.04:892][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.08-22.16.09:425][833]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.08-22.16.09:425][833]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.08-22.16.09:425][833]LogNet: Browse: /Game/Levels/FightKing
+[2022.10.08-22.16.09:426][833]LogLoad: LoadMap: /Game/Levels/FightKing
+[2022.10.08-22.16.09:426][833]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.16.09:426][833]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.16.09:427][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.16.09:478][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.16.09:481][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.08-22.16.09:482][833]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.16.09:492][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010049s)
+[2022.10.08-22.16.09:493][833]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.16.09:493][833]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2022.10.08-22.16.09:493][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.010872s)
+[2022.10.08-22.16.09:493][833]LogAudio: Display: Audio Device (ID: 6) registered with world 'FightKing'.
+[2022.10.08-22.16.09:493][833]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.16.09:497][833]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.16.09
+[2022.10.08-22.16.09:498][833]LogWorld: Bringing up level for play took: 0.003163
+[2022.10.08-22.16.09:500][833]LogLoad: Took 0.074261 seconds to LoadMap(/Game/Levels/UEDPIE_0_FightKing)
+[2022.10.08-22.16.10:876][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.16.10:876][992]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.16.10:876][992]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.16.10:877][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.16.10:884][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.16.10:891][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.16.10:903][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.16.10:903][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.16.10:904][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.16.10:908][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.08-22.16.10:964][994]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.08-22.16.12:286][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.16.19:065][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.16.51:631][427]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.16.51:689][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.08-22.16.52:110][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.16.52:174][467]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacterB681740B41CC9368A9D8E4AF60847EEB.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.16.52:184][467]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.16.52:184][467]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.17.27:499][325]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.17.27:557][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.08-22.17.27:834][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.17.27:899][350]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter0F0AD87A45ABF27E6F44BBBA91D8E2B0.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.17.27:909][350]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.17.27:909][350]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.18.20:031][317]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.10.08-22.18.20:090][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.08-22.18.20:343][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Components/BP_LearningKit_PlayerCharacter" FILE="../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset" SILENT=true
+[2022.10.08-22.18.20:408][339]LogSavePackage: Moving '../../../../UE/FightKing/Saved/BP_LearningKit_PlayerCharacter403303B94A43DFDB5B66429C41A99F48.tmp' to '../../../../UE/FightKing/Content/Custom/Components/BP_LearningKit_PlayerCharacter.uasset'
+[2022.10.08-22.18.20:418][339]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2022.10.08-22.18.20:418][339]LogContentValidation: Display: Validating Blueprint /Game/Custom/Components/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.08-22.18.28:493][276]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.18.28:496][276]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.08-22.18.28:535][276]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.28:535][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.28:576][276]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.08-22.18.28:576][276]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.28:576][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.29:845][416]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.08-22.18.29:849][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.08-22.18.29:849][416]PIE: New page: PIE session: FightKing (Oct 8, 2022, 12:18:29 PM)
+[2022.10.08-22.18.29:874][416]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.29:885][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010459s)
+[2022.10.08-22.18.29:886][416]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.18.29:886][416]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2022.10.08-22.18.29:886][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011304s)
+[2022.10.08-22.18.29:904][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.08-22.18.29:906][416]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.08-22.18.29:906][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-22.18.29:906][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-22.18.29:906][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-22.18.29:907][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-22.18.29:907][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-22.18.29:907][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.08-22.18.29:907][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-22.18.29:907][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-22.18.29:907][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-22.18.29:907][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-22.18.29:907][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-22.18.29:907][416]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.08-22.18.29:910][416]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.08-22.18.29:910][416]LogAudioMixer: Display: 1: FrontRight
+[2022.10.08-22.18.29:918][416]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.10.08-22.18.29:918][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-22.18.29:919][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-22.18.29:919][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-22.18.29:919][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.08-22.18.29:919][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.08-22.18.29:919][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.08-22.18.29:920][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.08-22.18.29:920][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.08-22.18.29:920][416]LogInit: FAudioDevice initialized.
+[2022.10.08-22.18.29:920][416]LogAudio: Display: Audio Device (ID: 7) registered with world 'FightKing'.
+[2022.10.08-22.18.29:924][416]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.18.29:930][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.18.29
+[2022.10.08-22.18.29:931][416]LogWorld: Bringing up level for play took: 0.005737
+[2022.10.08-22.18.29:931][416]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.08-22.18.29:933][416]PIE: Server logged in
+[2022.10.08-22.18.29:934][416]PIE: Play in editor total start time 0.085 seconds.
+[2022.10.08-22.18.32:413][712]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.18.32:413][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.08-22.18.34:696][986]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.08-22.18.34:696][986]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.08-22.18.34:696][986]LogNet: Browse: /Game/Levels/FightKing
+[2022.10.08-22.18.34:696][986]LogLoad: LoadMap: /Game/Levels/FightKing
+[2022.10.08-22.18.34:696][986]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.34:697][986]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.34:698][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.34:757][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.18.34:759][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.08-22.18.34:761][986]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.34:771][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009867s)
+[2022.10.08-22.18.34:771][986]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.18.34:771][986]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2022.10.08-22.18.34:771][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.010640s)
+[2022.10.08-22.18.34:771][986]LogAudio: Display: Audio Device (ID: 7) registered with world 'FightKing'.
+[2022.10.08-22.18.34:771][986]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.18.34:776][986]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.18.34
+[2022.10.08-22.18.34:776][986]LogWorld: Bringing up level for play took: 0.003032
+[2022.10.08-22.18.34:778][986]LogLoad: Took 0.081733 seconds to LoadMap(/Game/Levels/UEDPIE_0_FightKing)
+[2022.10.08-22.18.36:991][250]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.18.36:991][250]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.08-22.18.40:215][637]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.08-22.18.40:215][637]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.08-22.18.40:216][637]LogNet: Browse: /Game/Levels/FightKing
+[2022.10.08-22.18.40:216][637]LogLoad: LoadMap: /Game/Levels/FightKing
+[2022.10.08-22.18.40:216][637]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.40:216][637]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.40:217][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.40:257][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.18.40:262][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.08-22.18.40:263][637]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.40:273][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010219s)
+[2022.10.08-22.18.40:274][637]LogAIModule: Creating AISystem for world FightKing
+[2022.10.08-22.18.40:274][637]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2022.10.08-22.18.40:274][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightKing.FightKing to /Game/Levels/UEDPIE_0_FightKing.FightKing (0.011029s)
+[2022.10.08-22.18.40:274][637]LogAudio: Display: Audio Device (ID: 7) registered with world 'FightKing'.
+[2022.10.08-22.18.40:274][637]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.08-22.18.40:278][637]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightKing.FightKing up for play (max tick rate 0) at 2022.10.08-17.18.40
+[2022.10.08-22.18.40:278][637]LogWorld: Bringing up level for play took: 0.003186
+[2022.10.08-22.18.40:281][637]LogLoad: Took 0.064556 seconds to LoadMap(/Game/Levels/UEDPIE_0_FightKing)
+[2022.10.08-22.18.43:127][977]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.08-22.18.43:127][977]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.08-22.18.49:806][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.18.49:806][775]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FightKing
+[2022.10.08-22.18.49:806][775]LogWorld: UWorld::CleanupWorld for FightKing, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.49:808][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.49:815][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.08-22.18.49:822][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.18.49:833][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-22.18.49:834][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.18.49:835][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.08-22.18.49:837][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-22.18.49:841][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.08-22.18.49:882][778]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.08-22.18.54:524][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Components/BP_LevelComplete.BP_LevelComplete
+[2022.10.08-22.18.58:167][673]LogSlate: Window 'BP_LevelComplete' being destroyed
+[2022.10.08-22.18.58:170][673]LogSlate: Window 'BP_LevelComplete' being destroyed
+[2022.10.08-22.18.58:172][673]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-22.18.58:172][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-22.19.02:512][170]LogContentBrowser: Deferred new asset file creation: WBP_Restart1
+[2022.10.08-22.19.02:524][170]LogContentBrowser: Creating deferred item: WBP_Restart1
+[2022.10.08-22.19.06:197][611]LogContentBrowser: Attempting asset rename: WBP_Restart1 -> WBP_Restart1
+[2022.10.08-22.19.06:197][611]LogContentBrowser: End creating deferred item WBP_Restart1
+[2022.10.08-22.19.08:128][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.08-22.19.08:220][841]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.08-22.19.09:416][841]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.08-22.19.09:627][841]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Custom/UI/W_LevelComplete.W_LevelComplete
+[2022.10.08-22.19.10:829][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.08-22.19.10:843][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.08-22.19.10:854][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.08-22.19.13:072][ 80]LogContentBrowser: Deferred new asset file creation: WBP_Restart1
+[2022.10.08-22.19.13:098][ 80]LogContentBrowser: Creating deferred item: WBP_Restart1
+[2022.10.08-22.19.17:250][578]LogContentBrowser: Attempting asset rename: WBP_Restart1 -> W_LevelComplete
+[2022.10.08-22.19.17:266][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.08-22.19.17:274][578]LogContentBrowser: End creating deferred item WBP_Restart1
+[2022.10.08-22.19.18:485][721]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/W_LevelComplete.W_LevelComplete
+[2022.10.08-22.19.20:189][891]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.08-22.19.20:234][891]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.045 s
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: 
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: Ensure condition failed: ScopedTransaction != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UMGEditor/Private/Extensions/DesignerExtension.cpp] [Line: 60]
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: 
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: Stack: 
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: [Callstack] 0x00007ffec6df1228 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: [Callstack] 0x00007ffec6ceedd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: [Callstack] 0x00007ffec6c407bf UE4Editor-UMGEditor.dll!UnknownFunction []
+[2022.10.08-22.19.20:234][891]LogOutputDevice: Error: [Callstack] 0x00007ffec6c1d2e6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee123011 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee4c0a3f UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee4a3581 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee51e360 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee507097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ffeee4f9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff18dfc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff18de92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff18dfe465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff18de4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff3a6de858 USER32.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff3a6de299 USER32.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff18dffcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af8f7621 UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af910fcc UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af9110ba UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af9140dd UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af925984 UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007ff6af92853a UE4Editor.exe!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff3b877034 KERNEL32.DLL!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: [Callstack] 0x00007fff3c522651 ntdll.dll!UnknownFunction []
+[2022.10.08-22.19.20:235][891]LogOutputDevice: Error: 
